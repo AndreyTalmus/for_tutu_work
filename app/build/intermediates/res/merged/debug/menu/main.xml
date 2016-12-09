@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="ru.homeproduction.andrey.tututest.MainActivity" >
+
+    <item
+ 		android:id="@+id/schedule"
+ 		android:icon="@mipmap/ic_main_launcher"
+ 		android:title="Расписание">
+	</item>
+
+	<item
+		android:id="@+id/about_application"
+		android:icon="@mipmap/ic_main_launcher"
+		android:title="О приложении">
+	</item>
+
+</menu>

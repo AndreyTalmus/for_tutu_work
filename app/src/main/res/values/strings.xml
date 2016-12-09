@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TutuTestTask</string>
+    <string name="choose_date">Выберите дату</string>
+    <string name="ready">Готово</string>
+    <string name="сopyright">© А. С. Лапковский, 2016.
+    </string>
+    <string name="app_version">Версия приложения - 1. \n
+        Тестовое задание для работы.Из задания ничего убрано не было и функционал реализован. \n
+        Приложение тестировалось на планшете LexandA702 и смартфоне Samsung Galaxy S4. \n
+        Сторонние библиотеки не использовались. \n
+        Используемые иконки принадлежат Google и
+        распостраняются по лицензии Apache License Version 2.0.</string>
+
+</resources>
